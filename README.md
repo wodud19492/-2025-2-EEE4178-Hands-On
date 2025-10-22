@@ -3,3 +3,21 @@
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wodud19492/-2025-2-EEE4178-Hands-On/blob/main/Day1_2025.ipynb)
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wodud19492/-2025-2-EEE4178-Hands-On/blob/main/Day2_2025.ipynb)
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wodud19492/-2025-2-EEE4178-Hands-On/blob/main/Day3_2025.ipynb)
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wodud19492/-2025-2-EEE4178-Hands-On/blob/main/Day4_2025.ipynb)
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wodud19492/-2025-2-EEE4178-Hands-On/blob/main/Day5_2025.ipynb)
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wodud19492/-2025-2-EEE4178-Hands-On/blob/main/Day6_2025.ipynb)
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wodud19492/-2025-2-EEE4178-Hands-On/blob/main/Day7_2025.ipynb)
