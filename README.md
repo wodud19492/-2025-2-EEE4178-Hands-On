@@ -8,28 +8,28 @@
 
 ---
 **Day2_2025 To Colab**　　　　　　　　
-# <a href="https://colab.research.google.com/github/wodud19492/-2025-2-EEE4178-Hands-On/blob/main/Day2_2025.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+TBD
 
 ---
 **Day3_2025 To Colab**　　　　　　　　
-# <a href="https://colab.research.google.com/github/wodud19492/-2025-2-EEE4178-Hands-On/blob/main/Day3_2025.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+TBD
 
 ---
 **Day4_2025 To Colab**　　　　　
-# <a href="https://colab.research.google.com/github/wodud19492/-2025-2-EEE4178-Hands-On/blob/main/Day4_2025.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+TBD
 
 
 **Day4_2025 To Colab**　　
-# <a href="https://colab.research.google.com/github/wodud19492/-2025-2-EEE4178-Hands-On/blob/main/Day4_2025.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+TBD
 
 ---
 **Day5_2025 To Colab**　　　　　　　　
-# <a href="https://colab.research.google.com/github/wodud19492/-2025-2-EEE4178-Hands-On/blob/main/Day5_2025.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+TBD
 
 ---
 **Day6_2025 To Colab**　　　　　　　　
-# <a href="https://colab.research.google.com/github/wodud19492/-2025-2-EEE4178-Hands-On/blob/main/Day6_2025.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+TBD
 
 ---
 **Day7_2025 To Colab**　　　　　　　　
-# <a href="https://colab.research.google.com/github/wodud19492/-2025-2-EEE4178-Hands-On/blob/main/Day7_2025.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+TBD
