@@ -22,7 +22,7 @@
 
 ---
 **Day5_2025 To Colab**　　　　　　　　
-TBD
+<a href="https://colab.research.google.com/github/wodud19492/-2025-2-EEE4178-Hands-On/blob/main/Day5_2025_Diffusion.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ---
 **Day6_2025 To Colab**　　　　　　　　
